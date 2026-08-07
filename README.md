@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=180&section=header&text=Mark%20Mairs&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=CS%20@%20UCLA%20·%20SDE%20Intern%20@%20SAS%20·%20Roblox%20dev&descSize=16&descAlignY=68" width="100%" />
+<p align="center">
+  <img src="mark-grid.svg" alt="MARK" width="400">
+</p>
 
 <table>
 <tr>
