@@ -1,25 +1,36 @@
-## Mark Mairs
+<div align="center">
 
-CS @ UCLA (B.S. 2028) · SDE Intern @ SAS Institute
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=180&section=header&text=Mark%20Mairs&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=CS%20@%20UCLA%20·%20SDE%20Intern%20@%20SAS%20·%20Roblox%20dev&descSize=16&descAlignY=68" width="100%" />
 
-I build backend systems and games. Currently on SAS's Risk Innovation team
-working on AI governance tooling. Before that I spent a decade shipping on
-Roblox, which is still the work I'm proudest of.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://markmairs.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mairsmark1@gmail.com)
 
-### Things I've built
+</div>
 
-- **[Infinity Train](GAME_LINK)** — Roblox multiplayer game, 860K+ plays and
-  1,000+ peak concurrent players
-- **2nd place, Roblox track @ LA Hacks 2026** — [Inbox Invaders](https://github.com/Mekski/Inbox-Invaders),
-  an educational cybersecurity game
-- **[ReqRadar](https://github.com/Mekski/ReqRadar)** — event-driven system in Go
-  that detects new job postings in under a second
-- **[Trading dashboard](https://github.com/Mekski/trading-dashboard)** — built
-  during my internship at Sustany Capital, still in production a year later
+---
 
-### Working with
+### About Me
 
-Python · Go · TypeScript · Luau · C++ · SQL · React · Node · Flask · Docker ·
-Kubernetes · PostgreSQL · GCP
+- CS at UCLA, class of 2028
+- **SDE Intern @ SAS Institute** — building retrieval for an AI governance tool that checks model documentation against regulations like the EU AI Act
+- Previously at **Sustany Capital** — trading dashboard I built is still in production a year later
+- **Roblox Developer** — co-created [Infinity Train](https://www.roblox.com/games/115616151364844/Lobby), 860K+ plays and 1,000+ peak concurrent players
+- **LA Hacks 2026, Roblox Track** for [Inbox Invaders](https://devpost.com/software/inbox-invaders) — built the desktop-OS UI and audio system
+- Interested in agentic development, LLM retrieval systems, distributed backends, game architecture, developer tooling
 
-[Portfolio](https://markmairs.vercel.app) · [LinkedIn](LINKEDIN_URL) · mairsmark1@gmail.com
+---
+
+### Tech Stack
+
+#### Languages
+[![Languages](https://skillicons.dev/icons?i=python,go,ts,js,cpp,java,c,lua,bash&theme=dark)](https://skillicons.dev)
+
+#### Frameworks & Libraries
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,flask,nextjs&theme=dark)](https://skillicons.dev)
+
+#### Data, Cloud & Infra
+[![Cloud](https://skillicons.dev/icons?i=docker,kubernetes,postgres,mongodb,gcp&theme=dark)](https://skillicons.dev)
+
+#### Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,vercel&theme=dark)](https://skillicons.dev)
