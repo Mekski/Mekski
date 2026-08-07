@@ -14,7 +14,7 @@
 
 ### About Me
 
-- CS at UCLA, class of 2028. Lead Developer for BChat at UCLA DevX, Python Workshop Director at [UCLA ACM Hack](https://hack.uclaacm.com/)
+- CS at UCLA, class of 2028: Lead Developer at UCLA DevX, Python Workshop Director at [UCLA ACM Hack](https://hack.uclaacm.com/)
 - **SDE Intern @ SAS Institute**: building an AI governance tool that checks model documentation against regulations like the EU AI Act
 - Previously at **Sustany Capital**: trading dashboard I built is still in production a year later
 - **Roblox Developer**: co-created [Infinity Train](https://www.roblox.com/games/115616151364844/Lobby), 860K+ plays and 1,000+ peak concurrent players
